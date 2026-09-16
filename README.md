@@ -2,7 +2,7 @@
 
 > Historical project wiki and documentation for **ECE297: Software Communication and Design**, Team **CD100**.
 
-This repository is a GitHub-native reconstruction of the team's original DokuWiki documentation. The source material used DokuWiki syntax (`====== headings ======`, `[[links]]`, `{{ attachments }}`, and DokuWiki tables), which has been converted to GitHub-Flavored Markdown so the content renders correctly on GitHub.
+This repository is a GitHub-native reconstruction of original DokuWiki documentation. The source material used DokuWiki syntax (`====== headings ======`, `[[links]]`, `{{ attachments }}`, and DokuWiki tables), which has been converted to GitHub-Flavored Markdown so the content renders correctly on GitHub.
 
 ## Wiki navigation
 
@@ -19,14 +19,9 @@ This repository is a GitHub-native reconstruction of the team's original DokuWik
 
 The project evolved from geographic-data APIs into an interactive mapping application with search, semantic zoom, map styling, routing, walking + driving directions, and travelling-courier optimization.
 
-The milestone pages retain the team's original progress logs, task allocations, and technical notes wherever practical while translating the presentation layer into Markdown.
+The milestone pages retain the original progress logs, task allocations, and technical notes.
 
 ## Public-release note
 
-This repository is **private for now** and is intended to become the public-facing archive later. Personal phone numbers, student numbers, personal email addresses, and similar contact information from the original wiki have therefore been intentionally omitted from the reconstructed pages.
-
-The raw historical wiki export and screenshots are not committed here because some of them contain that information. This avoids placing sensitive data into Git history before the repository is made public.
-
-## Source preservation
-
-The reconstruction is based on the team's historical ECE297 wiki source and rendered exports. DokuWiki attachment references that depended on the original course wiki server are preserved by name where useful, but are not treated as live GitHub links unless the corresponding artifact is available in this repository.
+> **Academic Integrity & Licensing**  
+> To comply with academic integrity and plagiarism policies at the University of Toronto, the source code for this course project will **not** be published in this repository.
