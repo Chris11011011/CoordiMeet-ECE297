@@ -25,3 +25,5 @@ The milestone pages retain the original progress logs, task allocations, and tec
 
 > **Academic Integrity & Licensing**  
 > To comply with academic integrity and plagiarism policies at the University of Toronto, the source code for this course project will **not** be published in this repository.
+
+> Disclaimer: GPT Codex was used to convert the original DokuWiki source into GitHub-compatible Markdown for archival purposes.
